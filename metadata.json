@@ -1,0 +1,6 @@
+{
+  "name": "Priyo Bill Pay",
+  "description": "Priyo Enterprise Biddut Bill Pay - An offline-first, modern electricity bill payment utility with manual entry and sample bill payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
